@@ -1,4 +1,3 @@
-![License: MIT](https://img.shields.io)
 # Invoice Document Management System (Excel VBA)
 
 ## Overview
