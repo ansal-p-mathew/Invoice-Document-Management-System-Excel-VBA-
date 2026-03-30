@@ -64,6 +64,7 @@ The solution eliminates manual file handling by dynamically creating structured 
 Base Folder (defined in Excel cell `K2`):
 
 Invoices/
+```
 ├── INV001/
 │   ├── document1.pdf
 │   ├── document2.xlsx
@@ -74,7 +75,7 @@ Invoices/
 │   ├── ...
 │   └── Payment Receipts/
 
----
+```
 
 ## Setup Instructions
 
